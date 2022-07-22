@@ -1,4 +1,4 @@
-<img src="https://storage.googleapis.com/capstone-ml-model-bucket/web/InSight.jpeg">
+<img src="https://raw.githubusercontent.com/yosua08/InSight/api/web/InSight.jpeg">
 
 ## InSight
 Blind people are people who have problems in vision, either low vision or totally blind. The damage in vision results in obstacles in the ability of visual perception. According to the estimation of the Indonesian Ministry of Health, the number of blind people in Indonesia is 1.5% of the total population of Indonesia or around 3,750,000 blind people.
